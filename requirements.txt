@@ -1,0 +1,14 @@
+pydicom
+scikit-spatial
+monai
+nibabel
+torch==1.9.0
+torchvision==0.10.0
+tensorboardX
+scipy
+opencv-python
+pickle5
+tqdm
+tensorboard
+setuptools==59.5.0
+split-folders

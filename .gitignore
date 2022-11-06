@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+.gitignore.swp
+.weights
+.log
+.results
+.ipynb_checkpointsv

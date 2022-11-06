@@ -1,0 +1,1804 @@
+log_root:   .log/train_highresnet_run_8_22_19_36  deeper u-net
+
+Let's use 4 GPUs!
+3119605
+epoch:  1
+Epoch 1
+Train - Loss: 27.9772 
+Train Time 5m 45s
+lr: 5e-05
+Val Synthetic - Loss: 17.2725 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 34.6510 - distance1: 3.280765 - distance2: 3.440859
+d1 [4.469347025608435, 3.0756827224187853, 6.964762671695621, 0.523850847037691, 1.2630461542326419, 3.4858477418917424, 1.682325032163238, 11.143225708276356]
+d2 [3.9632050808051424, 3.4313503007362174, 5.797779749895886, 1.0145092011255612, 1.3668080684465291, 3.4503677307907803, 1.4217592216609727, 10.265648535099892]
+Inferance Time 0m 1s
+
+epoch:  2
+Epoch 2
+Train - Loss: 18.2162 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 17.1698 
+Validation Time 0m 8s
+
+epoch:  3
+Epoch 3
+Train - Loss: 15.9661 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 12.1551 
+Validation Time 0m 10s
+
+epoch:  4
+Epoch 4
+Train - Loss: 14.3813 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 16.4998 
+Validation Time 0m 9s
+
+epoch:  5
+Epoch 5
+Train - Loss: 13.2684 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 14.6778 
+Validation Time 0m 8s
+
+epoch:  6
+Epoch 6
+Train - Loss: 12.4003 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 30.6366 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 34.9090 - distance1: 3.403642 - distance2: 3.890698
+d1 [1.5982147455957822, 4.7827168764324535, 7.374039865663671, 3.2494867477144407, 3.557796341109012, 11.406516272179948, 1.9618447344410623, 0.8974484917763048]
+d2 [1.5485863352487128, 4.52454720757408, 5.9463756129180085, 3.558587615000426, 4.222807634353532, 10.288165354171063, 1.6988035827701657, 0.9970889229085825]
+Inferance Time 0m 1s
+
+epoch:  7
+Epoch 7
+Train - Loss: 11.5740 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 50.8881 
+Validation Time 0m 10s
+
+epoch:  8
+Epoch 8
+Train - Loss: 10.8924 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 54.2395 
+Validation Time 0m 9s
+
+epoch:  9
+Epoch 9
+Train - Loss: 10.4743 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 18.2101 
+Validation Time 0m 10s
+
+epoch:  10
+Epoch 10
+Train - Loss: 9.8282 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 20.4081 
+Validation Time 0m 10s
+
+epoch:  11
+Epoch 11
+Train - Loss: 9.4061 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 9.2730 
+Validation Time 0m 8s
+
+Inferance Synthetic - Loss: 11.8124 - distance1: 3.968586 - distance2: 3.465238
+d1 [4.707589299991255, 6.291867993528094, 10.311502218447066, 3.4291906698485715, 1.1491527749171524, 1.3446935366552475, 4.507981979097852, 1.2388301272979532]
+d2 [4.579140795004527, 5.993173775529614, 10.167790558058986, 2.915617954340546, 1.2423002997116188, 1.1420934191722663, 4.014857679755, 0.6223174936141952]
+Inferance Time 0m 1s
+
+epoch:  12
+Epoch 12
+Train - Loss: 9.0734 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 28.6498 
+Validation Time 0m 10s
+
+epoch:  13
+Epoch 13
+Train - Loss: 8.5807 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 64.0847 
+Validation Time 0m 10s
+
+epoch:  14
+Epoch 14
+Train - Loss: 8.2686 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 9.9352 
+Validation Time 0m 9s
+
+epoch:  15
+Epoch 15
+Train - Loss: 7.9941 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 19.0399 
+Validation Time 0m 9s
+
+epoch:  16
+Epoch 16
+Train - Loss: 7.7112 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 86.8919 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 79.6252 - distance1: 5.661049 - distance2: 4.914711
+d1 [7.020599305311547, 5.728859926406484, 3.442975326823891, 13.453687040941313, 6.178569754848437, 5.593237430700421, 3.8473146670404677, 2.772049142395149]
+d2 [5.164242848920985, 7.5815478492470785, 3.1204265418833725, 12.121130734851842, 5.924577332077526, 4.66517946337909, 3.2228229351476996, 3.0797952158909916]
+Inferance Time 0m 1s
+
+epoch:  17
+Epoch 17
+Train - Loss: 7.3898 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 16.7712 
+Validation Time 0m 8s
+
+epoch:  18
+Epoch 18
+Train - Loss: 7.1786 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 10.9959 
+Validation Time 0m 10s
+
+epoch:  19
+Epoch 19
+Train - Loss: 6.8907 
+Train Time 5m 31s
+lr: 5e-05
+Val Synthetic - Loss: 33.5304 
+Validation Time 0m 9s
+
+epoch:  20
+Epoch 20
+Train - Loss: 6.7114 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 66.4131 
+Validation Time 0m 8s
+
+epoch:  21
+Epoch 21
+Train - Loss: 6.4773 
+Train Time 5m 30s
+lr: 5e-05
+Val Synthetic - Loss: 17.7633 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 18.1784 - distance1: 3.884354 - distance2: 3.450117
+d1 [1.874717248519326, 7.307855060803521, 2.216388203026291, 1.2070844742600386, 4.358701237955947, 3.410007129549421, 4.681207888642858, 11.05816845366172]
+d2 [1.501238802898308, 5.725738314867789, 1.6980284174056124, 0.8142760162106063, 4.0397516997272644, 3.211184704736639, 3.6890491428276233, 9.84763803271616]
+Inferance Time 0m 1s
+
+epoch:  22
+Epoch 22
+Train - Loss: 6.2905 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 23.4357 
+Validation Time 0m 10s
+
+epoch:  23
+Epoch 23
+Train - Loss: 5.8556 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 15.5175 
+Validation Time 0m 9s
+
+epoch:  24
+Epoch 24
+Train - Loss: 5.7653 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 23.5868 
+Validation Time 0m 10s
+
+epoch:  25
+Epoch 25
+Train - Loss: 5.5691 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 9.5757 
+Validation Time 0m 10s
+
+epoch:  26
+Epoch 26
+Train - Loss: 5.3744 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 12.6161 
+Validation Time 0m 9s
+
+Inferance Synthetic - Loss: 10.4814 - distance1: 4.565747 - distance2: 3.624755
+d1 [1.5443056246969884, 3.874497993656659, 1.6814154882114833, 6.782906737708879, 5.256996096237335, 6.2096493380964555, 1.4058610134132927, 10.768315500348157]
+d2 [1.2409448355526722, 3.0595739869609457, 1.2987212848168328, 5.862724909489445, 4.18993581946527, 5.545448851473357, 0.7861303944357255, 10.174465335016784]
+Inferance Time 0m 1s
+
+epoch:  27
+Epoch 27
+Train - Loss: 5.2151 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 7.4419 
+Validation Time 0m 10s
+
+epoch:  28
+Epoch 28
+Train - Loss: 5.0664 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 8.1916 
+Validation Time 0m 10s
+
+epoch:  29
+Epoch 29
+Train - Loss: 4.9754 
+Train Time 5m 29s
+lr: 4.5e-05
+Val Synthetic - Loss: 44.4611 
+Validation Time 0m 9s
+
+epoch:  30
+Epoch 30
+Train - Loss: 4.8768 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 9.8518 
+Validation Time 0m 10s
+
+epoch:  31
+Epoch 31
+Train - Loss: 4.6878 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 5.5219 
+Validation Time 0m 9s
+
+Inferance Synthetic - Loss: 7.8899 - distance1: 3.357052 - distance2: 3.219417
+d1 [2.6377517296588686, 0.9123947992355863, 6.25005535225218, 4.2776441530675555, 10.893392165269747, 3.686943388030168, 3.0271597943549318, 1.034181017705054]
+d2 [1.1218053487149464, 0.6710112724311431, 6.025325337193838, 3.812388240297259, 10.295275638120922, 3.595189474219519, 2.843643538473386, 1.0369437602517682]
+Inferance Time 0m 1s
+
+epoch:  32
+Epoch 32
+Train - Loss: 4.5426 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 5.1312 
+Validation Time 0m 9s
+
+epoch:  33
+Epoch 33
+Train - Loss: 4.4198 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 32.1357 
+Validation Time 0m 9s
+
+epoch:  34
+Epoch 34
+Train - Loss: 4.3019 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 4.8649 
+Validation Time 0m 10s
+
+epoch:  35
+Epoch 35
+Train - Loss: 4.2416 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 11.0005 
+Validation Time 0m 8s
+
+epoch:  36
+Epoch 36
+Train - Loss: 4.0605 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 8.0068 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 6.6534 - distance1: 6.623021 - distance2: 3.192421
+d1 [6.43110225549064, 11.699159244596087, 7.356769681649618, 8.237809995651993, 3.0770878181042525, 6.814939275243123, 3.058672076220805, 3.0453174133219685]
+d2 [3.340285451576176, 10.162341981217102, 1.2213796766989091, 3.753086532758922, 1.1952382335463723, 5.92604918167124, 0.7381132297500623, 3.0445575343867763]
+Inferance Time 0m 1s
+
+epoch:  37
+Epoch 37
+Train - Loss: 3.9558 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 10.4731 
+Validation Time 0m 9s
+
+epoch:  38
+Epoch 38
+Train - Loss: 3.8910 
+Train Time 5m 29s
+lr: 4.5e-05
+Val Synthetic - Loss: 13.6156 
+Validation Time 0m 9s
+
+epoch:  39
+Epoch 39
+Train - Loss: 3.7490 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 6.8615 
+Validation Time 0m 10s
+
+epoch:  40
+Epoch 40
+Train - Loss: 3.6627 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 4.3097 
+Validation Time 0m 9s
+
+epoch:  41
+Epoch 41
+Train - Loss: 3.5944 
+Train Time 5m 29s
+lr: 4.5e-05
+Val Synthetic - Loss: 3.8242 
+Validation Time 0m 9s
+
+Inferance Synthetic - Loss: 5.9153 - distance1: 3.757889 - distance2: 3.143441
+d1 [6.350811093280868, 1.071452497916277, 4.122840738521454, 3.3905572146600145, 3.3929368647316496, 7.454292822475293, 1.4020319671615926, 11.51586524642094]
+d2 [5.917621236650249, 0.8030272598174386, 3.829372341029818, 2.9877199830789722, 3.299161249627094, 1.0526312814253296, 1.1188433478669946, 10.315616926619741]
+Inferance Time 0m 1s
+
+epoch:  42
+Epoch 42
+Train - Loss: 3.4848 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 3.3154 
+Validation Time 0m 10s
+
+epoch:  43
+Epoch 43
+Train - Loss: 3.4147 
+Train Time 5m 29s
+lr: 4.5e-05
+Val Synthetic - Loss: 7.1240 
+Validation Time 0m 10s
+
+epoch:  44
+Epoch 44
+Train - Loss: 3.3315 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.3958 
+Validation Time 0m 9s
+
+epoch:  45
+Epoch 45
+Train - Loss: 3.2138 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 3.9595 
+Validation Time 0m 10s
+
+epoch:  46
+Epoch 46
+Train - Loss: 3.1302 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.2224 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 4.0611 - distance1: 3.576133 - distance2: 3.135806
+d1 [3.6270738200750143, 1.63209294205066, 4.838373794388191, 10.738914448432224, 3.5251918145459347, 6.237239113096124, 2.1070016192946492, 1.641477746777053]
+d2 [2.9310288640916693, 1.1120960275568375, 3.720677316365434, 10.11953222889443, 3.3405824310553722, 5.957200401200633, 1.17018555781928, 0.747436967842523]
+Inferance Time 0m 1s
+
+epoch:  47
+Epoch 47
+Train - Loss: 3.0792 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.3072 
+Validation Time 0m 9s
+
+epoch:  48
+Epoch 48
+Train - Loss: 2.9742 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.6650 
+Validation Time 0m 10s
+
+epoch:  49
+Epoch 49
+Train - Loss: 2.9403 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.9127 
+Validation Time 0m 10s
+
+epoch:  50
+Epoch 50
+Train - Loss: 2.8399 
+Train Time 5m 29s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.7083 
+Validation Time 0m 8s
+
+epoch:  51
+Epoch 51
+Train - Loss: 2.7704 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.8084 
+Validation Time 0m 10s
+
+Inferance Synthetic - Loss: 3.6457 - distance1: 3.476914 - distance2: 3.174163
+d1 [4.485327221481844, 10.462998636134857, 1.2371743361575438, 1.1055897174954936, 1.4370818366013138, 3.5145996117840825, 3.439227941157331, 6.158451262716821]
+d2 [3.7762979246399944, 10.385458923194072, 1.1371700746803848, 1.1503965055383147, 0.777895691351675, 3.048601120775729, 3.299724385681888, 5.9861222870507635]
+Inferance Time 0m 1s
+
+epoch:  52
+Epoch 52
+Train - Loss: 2.7167 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.7062 
+Validation Time 0m 10s
+
+epoch:  53
+Epoch 53
+Train - Loss: 2.6479 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.6283 
+Validation Time 0m 8s
+
+epoch:  54
+Epoch 54
+Train - Loss: 2.5633 
+Train Time 5m 31s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.7644 
+Validation Time 0m 10s
+
+epoch:  55
+Epoch 55
+Train - Loss: 2.4908 
+Train Time 5m 30s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.1199 
+Validation Time 0m 10s
+
+epoch:  56
+Epoch 56
+Train - Loss: 2.4362 
+Train Time 4m 40s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.5502 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 3.0503 - distance1: 3.495485 - distance2: 3.246621
+d1 [3.411308015812015, 1.7364695649293342, 10.940141358222132, 6.706871499411734, 4.693347818103219, 1.3324186413377002, 3.5796614929217623, 1.077147627470689]
+d2 [3.1965071123395137, 1.2655775703606515, 10.284085404949511, 6.024448343580312, 3.696975901112915, 1.2707755312490496, 3.2967346436853613, 0.8422446159945692]
+Inferance Time 0m 1s
+
+epoch:  57
+Epoch 57
+Train - Loss: 2.3867 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.6399 
+Validation Time 0m 6s
+
+epoch:  58
+Epoch 58
+Train - Loss: 2.3323 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.3876 
+Validation Time 0m 5s
+
+epoch:  59
+Epoch 59
+Train - Loss: 2.2464 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.5921 
+Validation Time 0m 5s
+
+epoch:  60
+Epoch 60
+Train - Loss: 2.2207 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.5889 
+Validation Time 0m 6s
+
+epoch:  61
+Epoch 61
+Train - Loss: 2.1516 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.8223 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 3.4497 - distance1: 3.417023 - distance2: 2.991155
+d1 [10.240811615548424, 3.4326670725315376, 4.613984188919929, 1.4771771258052926, 3.401378744786306, 1.5673026664873542, 5.948438016013773, 1.1299091779764632]
+d2 [10.162703279274549, 3.2987475098975434, 3.6606157698331967, 1.0437376301495667, 2.683563007861302, 0.710678149148084, 5.989536699091893, 0.9009220676575102]
+Inferance Time 0m 1s
+
+epoch:  62
+Epoch 62
+Train - Loss: 2.0864 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.4288 
+Validation Time 0m 6s
+
+epoch:  63
+Epoch 63
+Train - Loss: 2.0371 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.3398 
+Validation Time 0m 5s
+
+epoch:  64
+Epoch 64
+Train - Loss: 2.0048 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.5789 
+Validation Time 0m 5s
+
+epoch:  65
+Epoch 65
+Train - Loss: 1.9475 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.3720 
+Validation Time 0m 5s
+
+epoch:  66
+Epoch 66
+Train - Loss: 1.9011 
+Train Time 2m 49s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2892 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 2.5186 - distance1: 3.630992 - distance2: 3.087989
+d1 [6.214971278279089, 1.6452019542706613, 4.8398083232124725, 10.367141841506214, 3.6142205354943413, 2.027410568769736, 1.6130808996646764, 3.647763617136626]
+d2 [5.966408492969175, 1.06198545794098, 3.664811366417443, 10.054762274225046, 3.3265623076842656, 1.1093300144910858, 0.6939268692537414, 2.8494164666247728]
+Inferance Time 0m 1s
+
+epoch:  67
+Epoch 67
+Train - Loss: 1.8466 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.3152 
+Validation Time 0m 6s
+
+epoch:  68
+Epoch 68
+Train - Loss: 1.8129 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.3677 
+Validation Time 0m 5s
+
+epoch:  69
+Epoch 69
+Train - Loss: 1.7637 
+Train Time 2m 49s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2154 
+Validation Time 0m 6s
+
+epoch:  70
+Epoch 70
+Train - Loss: 1.7259 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2049 
+Validation Time 0m 5s
+
+epoch:  71
+Epoch 71
+Train - Loss: 1.6684 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2152 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 2.3164 - distance1: 3.679311 - distance2: 3.159672
+d1 [1.640568215712279, 3.6488647886098637, 4.74918194064576, 1.6175712808782925, 3.709756822508536, 1.6289620907313818, 10.580064652051837, 6.154834776031142]
+d2 [1.1578076223710396, 3.316865129766533, 3.7452865361684338, 1.1367864081231611, 3.0024778946547013, 0.732690888107292, 10.259496314714905, 5.937414358262089]
+Inferance Time 0m 1s
+
+epoch:  72
+Epoch 72
+Train - Loss: 1.6345 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2312 
+Validation Time 0m 6s
+
+epoch:  73
+Epoch 73
+Train - Loss: 1.5992 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2193 
+Validation Time 0m 5s
+
+epoch:  74
+Epoch 74
+Train - Loss: 1.5721 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.1631 
+Validation Time 0m 5s
+
+epoch:  75
+Epoch 75
+Train - Loss: 1.5125 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.0786 
+Validation Time 0m 5s
+
+epoch:  76
+Epoch 76
+Train - Loss: 1.4747 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2281 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 2.3077 - distance1: 3.706062 - distance2: 3.073610
+d1 [3.742264766850486, 10.688729170515325, 1.7489741116282405, 1.9390305967597532, 5.0675267062079765, 3.669859001949285, 6.241150014440877, 1.610993773616047]
+d2 [2.843083985715267, 10.346799278308604, 0.7543983382237602, 1.050745066085062, 3.7385510594495064, 3.304135331719105, 6.000171675105314, 1.0331301892792675]
+Inferance Time 0m 1s
+
+epoch:  77
+Epoch 77
+Train - Loss: 1.4514 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9864 
+Validation Time 0m 5s
+
+epoch:  78
+Epoch 78
+Train - Loss: 1.4205 
+Train Time 2m 49s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.0183 
+Validation Time 0m 5s
+
+epoch:  79
+Epoch 79
+Train - Loss: 1.3667 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.0814 
+Validation Time 0m 5s
+
+epoch:  80
+Epoch 80
+Train - Loss: 1.3494 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.1172 
+Validation Time 0m 5s
+
+epoch:  81
+Epoch 81
+Train - Loss: 1.3088 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9880 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 1.8544 - distance1: 3.946419 - distance2: 3.319993
+d1 [7.074896758579568, 1.482213786585084, 5.00585896066787, 1.5211088452427988, 3.90699443245783, 3.985843055334725, 10.88723488175203, 1.868877389857794]
+d2 [5.966106870224025, 0.9700687699744102, 3.770001014836735, 1.2620569993583426, 3.3455451227750705, 3.2944408357516717, 10.29553454644982, 1.3183540984549382]
+Inferance Time 0m 1s
+
+epoch:  82
+Epoch 82
+Train - Loss: 1.2747 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9350 
+Validation Time 0m 5s
+
+epoch:  83
+Epoch 83
+Train - Loss: 1.2551 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.2969 
+Validation Time 0m 5s
+
+epoch:  84
+Epoch 84
+Train - Loss: 1.2137 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.6281 
+Validation Time 0m 5s
+
+epoch:  85
+Epoch 85
+Train - Loss: 1.1871 
+Train Time 2m 49s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.0160 
+Validation Time 0m 5s
+
+epoch:  86
+Epoch 86
+Train - Loss: 1.1638 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8597 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 1.5229 - distance1: 3.905489 - distance2: 3.210774
+d1 [3.9621444150480754, 1.6322751591172133, 2.04320681139288, 11.076855257363333, 3.8488338016282326, 2.048269723232211, 5.079070719414004, 7.034972956746555]
+d2 [3.114779365315696, 0.8422474843866399, 1.266452792123623, 10.30238880063092, 3.306768475846112, 1.263475520832706, 3.7361658593674205, 6.006765192650767]
+Inferance Time 0m 1s
+
+epoch:  87
+Epoch 87
+Train - Loss: 1.1407 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9118 
+Validation Time 0m 6s
+
+epoch:  88
+Epoch 88
+Train - Loss: 1.1106 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9594 
+Validation Time 0m 5s
+
+epoch:  89
+Epoch 89
+Train - Loss: 1.0906 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.9429 
+Validation Time 0m 5s
+
+epoch:  90
+Epoch 90
+Train - Loss: 1.0735 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8666 
+Validation Time 0m 5s
+
+epoch:  91
+Epoch 91
+Train - Loss: 1.0320 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8833 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 1.5932 - distance1: 4.242147 - distance2: 3.370622
+d1 [4.192135888302324, 11.375407081392968, 5.330169218383821, 2.5323319527622927, 4.292157855591251, 2.2220745548657153, 1.5873014485995691, 7.605074876583313]
+d2 [3.3856847476193295, 10.293626344696882, 3.961553764579184, 1.447595406218533, 3.3555594832519833, 1.2921457983658244, 1.013347868267548, 6.014458763571311]
+Inferance Time 0m 1s
+
+epoch:  92
+Epoch 92
+Train - Loss: 1.0134 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8516 
+Validation Time 0m 5s
+
+epoch:  93
+Epoch 93
+Train - Loss: 0.9890 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8342 
+Validation Time 0m 5s
+
+epoch:  94
+Epoch 94
+Train - Loss: 0.9722 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7696 
+Validation Time 0m 5s
+
+epoch:  95
+Epoch 95
+Train - Loss: 0.9582 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7960 
+Validation Time 0m 6s
+
+epoch:  96
+Epoch 96
+Train - Loss: 0.9309 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8322 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 1.4805 - distance1: 3.704412 - distance2: 3.226073
+d1 [1.5959027341034044, 6.654275099965169, 5.0059813204772725, 3.695566380641845, 1.817255048637639, 3.713257515708008, 1.557009661147638, 10.85774812067652]
+d2 [1.199642338428865, 6.032073059282083, 3.8772100928542446, 3.07894000731468, 1.1957207152816722, 3.3732067731753466, 0.8354142503990108, 10.443288952022009]
+Inferance Time 0m 1s
+
+epoch:  97
+Epoch 97
+Train - Loss: 0.9187 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7954 
+Validation Time 0m 6s
+
+epoch:  98
+Epoch 98
+Train - Loss: 0.8927 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7965 
+Validation Time 0m 5s
+
+epoch:  99
+Epoch 99
+Train - Loss: 0.8732 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7552 
+Validation Time 0m 5s
+
+epoch:  100
+Epoch 100
+Train - Loss: 0.8603 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 2.5797 
+Validation Time 0m 6s
+
+epoch:  101
+Epoch 101
+Train - Loss: 0.8462 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7526 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 1.2584 - distance1: 4.278205 - distance2: 3.345408
+d1 [4.25729994510627, 11.193354187078738, 1.7136154823106131, 7.340080331658583, 5.379771956717732, 4.299110567360176, 2.0262059684500136, 2.3725113738573556]
+d2 [3.31043289732325, 10.406568567183346, 0.9780731010018372, 5.979370233849304, 3.8410108953064417, 3.3803835993211298, 1.253106919255185, 1.4656964544728548]
+Inferance Time 0m 1s
+
+epoch:  102
+Epoch 102
+Train - Loss: 0.8316 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6895 
+Validation Time 0m 6s
+
+epoch:  103
+Epoch 103
+Train - Loss: 0.8155 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 1.6067 
+Validation Time 0m 6s
+
+epoch:  104
+Epoch 104
+Train - Loss: 0.8014 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7431 
+Validation Time 0m 5s
+
+epoch:  105
+Epoch 105
+Train - Loss: 0.7758 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7118 
+Validation Time 0m 5s
+
+epoch:  106
+Epoch 106
+Train - Loss: 0.7635 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7123 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 1.1800 - distance1: 4.009511 - distance2: 3.267149
+d1 [4.053539968683877, 2.051158288206998, 6.963194886334245, 10.957893414860878, 3.965482704072875, 1.9577889980145546, 1.7179759181942296, 5.173171394945628]
+d2 [3.1665248616874564, 1.2470272592190017, 6.030750331676962, 10.395884757960301, 3.367772226342716, 1.1932552108254217, 0.8786122975396953, 3.898359164674308]
+Inferance Time 0m 1s
+
+epoch:  107
+Epoch 107
+Train - Loss: 0.7545 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7826 
+Validation Time 0m 5s
+
+epoch:  108
+Epoch 108
+Train - Loss: 0.7271 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7363 
+Validation Time 0m 5s
+
+epoch:  109
+Epoch 109
+Train - Loss: 0.7264 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7261 
+Validation Time 0m 5s
+
+epoch:  110
+Epoch 110
+Train - Loss: 0.7078 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7157 
+Validation Time 0m 5s
+
+epoch:  111
+Epoch 111
+Train - Loss: 0.6879 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8042 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 1.1802 - distance1: 11.382531 - distance2: 3.342508
+d1 [11.679827287138668, 11.085234278883465, 16.340106277887045, 10.396435192516844, 10.373228419238409, 20.384074769654184, 12.291336705425865, 7.351442730403894]
+d2 [3.746567493541142, 0.9788291702729017, 5.982562551451236, 3.3501547407386205, 1.4886307146321445, 10.275834606066407, 1.3034865767345867, 3.3348609534851676]
+Inferance Time 0m 1s
+
+epoch:  112
+Epoch 112
+Train - Loss: 0.6819 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6878 
+Validation Time 0m 5s
+
+epoch:  113
+Epoch 113
+Train - Loss: 0.6662 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6888 
+Validation Time 0m 5s
+
+epoch:  114
+Epoch 114
+Train - Loss: 0.6500 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6223 
+Validation Time 0m 5s
+
+epoch:  115
+Epoch 115
+Train - Loss: 0.6445 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6446 
+Validation Time 0m 5s
+
+epoch:  116
+Epoch 116
+Train - Loss: 0.6323 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6511 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.9998 - distance1: 5.131318 - distance2: 3.826182
+d1 [6.584823202739669, 11.518217234595165, 3.3198425149210977, 2.2614441600521804, 9.525575216511022, 1.7376774101996662, 4.795841837741406, 5.4667937729194]
+d2 [7.943910269716807, 10.3123171467692, 1.542771900601566, 0.9887519167133558, 5.956990982183183, 0.7631307645676162, 3.377349833952828, 4.275014352465078]
+Inferance Time 0m 1s
+
+epoch:  117
+Epoch 117
+Train - Loss: 0.6244 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7029 
+Validation Time 0m 5s
+
+epoch:  118
+Epoch 118
+Train - Loss: 0.6082 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6495 
+Validation Time 0m 5s
+
+epoch:  119
+Epoch 119
+Train - Loss: 0.6029 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6145 
+Validation Time 0m 5s
+
+epoch:  120
+Epoch 120
+Train - Loss: 0.5994 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6568 
+Validation Time 0m 5s
+
+epoch:  121
+Epoch 121
+Train - Loss: 0.5856 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6383 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.8884 - distance1: 4.619687 - distance2: 3.086923
+d1 [5.400914394708836, 4.60072946570928, 2.2918584722270365, 7.733807494948533, 2.6478438628678282, 4.638644821217858, 2.364963655069208, 11.16263186221548]
+d2 [6.960974309644069, 3.1598411220070104, 0.7148346857180756, 6.026642596399117, 1.1424220028227559, 3.014004642881316, 1.0443186646944944, 10.267422830113595]
+Inferance Time 0m 1s
+
+epoch:  122
+Epoch 122
+Train - Loss: 0.5818 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6037 
+Validation Time 0m 5s
+
+epoch:  123
+Epoch 123
+Train - Loss: 0.5702 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.5871 
+Validation Time 0m 5s
+
+epoch:  124
+Epoch 124
+Train - Loss: 0.5649 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6354 
+Validation Time 0m 6s
+
+epoch:  125
+Epoch 125
+Train - Loss: 0.5607 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.5765 
+Validation Time 0m 5s
+
+epoch:  126
+Epoch 126
+Train - Loss: 0.5488 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.7466 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7861 - distance1: 3.820514 - distance2: 2.430691
+d1 [1.4983731578239723, 4.434031374009887, 9.970552269739672, 2.2510900793217634, 4.496388376773662, 3.2069971796552124, 11.476703467239675, 3.0407412768773394]
+d2 [0.7446985622781513, 3.3657915658285598, 6.063260847411371, 1.2971179341946508, 3.8223957317596775, 1.4955910204144398, 10.294851489708675, 1.0190443532070412]
+Inferance Time 0m 1s
+
+epoch:  127
+Epoch 127
+Train - Loss: 0.5450 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6730 
+Validation Time 0m 5s
+
+epoch:  128
+Epoch 128
+Train - Loss: 0.5380 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6155 
+Validation Time 0m 5s
+
+epoch:  129
+Epoch 129
+Train - Loss: 0.5329 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6590 
+Validation Time 0m 6s
+
+epoch:  130
+Epoch 130
+Train - Loss: 0.5208 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.8355 
+Validation Time 0m 5s
+
+epoch:  131
+Epoch 131
+Train - Loss: 0.5200 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6519 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7492 - distance1: 4.501029 - distance2: 2.861991
+d1 [4.156497900739245, 3.6620341409199817, 3.3213561494084707, 4.41419351231666, 15.287889630279576, 8.85495564863669, 10.100440487874222, 4.58786496146953]
+d2 [3.231466457749653, 2.4925148689129584, 1.4812322743072384, 4.232388949373101, 10.462978759525198, 1.160097353729398, 6.0022221071725586, 0.7519476119677766]
+Inferance Time 0m 1s
+
+epoch:  132
+Epoch 132
+Train - Loss: 0.5094 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.5777 
+Validation Time 0m 6s
+
+epoch:  133
+Epoch 133
+Train - Loss: 0.5081 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.5977 
+Validation Time 0m 5s
+
+epoch:  134
+Epoch 134
+Train - Loss: 0.5025 
+Train Time 2m 48s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6854 
+Validation Time 0m 5s
+
+epoch:  135
+Epoch 135
+Train - Loss: 0.4880 
+Train Time 2m 47s
+lr: 4.5e-05
+Val Synthetic - Loss: 0.6121 
+Validation Time 0m 6s
+
+epoch:  136
+Epoch 136
+Train - Loss: 0.4870 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.7063 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.8202 - distance1: 6.166858 - distance2: 2.760134
+d1 [6.962079794733992, 4.064961402779968, 5.024694333444504, 18.694358914855325, 5.37163675483942, 2.6508285080862204, 11.090608932172515, 10.850315625218231]
+d2 [8.754048493228781, 0.6664313291633256, 1.2275692216816654, 10.186300024504648, 3.033350501786809, 2.486918298639801, 1.1904131406095906, 5.978082554073283]
+Inferance Time 0m 1s
+
+epoch:  137
+Epoch 137
+Train - Loss: 0.4757 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.5996 
+Validation Time 0m 6s
+
+epoch:  138
+Epoch 138
+Train - Loss: 0.4750 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6912 
+Validation Time 0m 5s
+
+epoch:  139
+Epoch 139
+Train - Loss: 0.4673 
+Train Time 2m 49s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.5612 
+Validation Time 0m 5s
+
+epoch:  140
+Epoch 140
+Train - Loss: 0.4623 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.5913 
+Validation Time 0m 5s
+
+epoch:  141
+Epoch 141
+Train - Loss: 0.4579 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6185 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7033 - distance1: 6.298867 - distance2: 2.506569
+d1 [6.431511064662339, 3.9710555410211814, 4.146299326822694, 6.1662233503904496, 3.714269790881908, 18.39593563052808, 10.32155929076333, 10.66350547707605]
+d2 [0.7253854465079923, 1.959889992547198, 1.299355694908381, 3.0532478617355223, 3.36427250054683, 10.20329904930076, 1.2134710088244545, 6.037816549391357]
+Inferance Time 0m 1s
+
+epoch:  142
+Epoch 142
+Train - Loss: 0.4581 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6360 
+Validation Time 0m 5s
+
+epoch:  143
+Epoch 143
+Train - Loss: 0.4579 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6219 
+Validation Time 0m 6s
+
+epoch:  144
+Epoch 144
+Train - Loss: 0.4469 
+Train Time 2m 48s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.7337 
+Validation Time 0m 5s
+
+epoch:  145
+Epoch 145
+Train - Loss: 0.4484 
+Train Time 2m 48s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6300 
+Validation Time 0m 5s
+
+epoch:  146
+Epoch 146
+Train - Loss: 0.4424 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.5868 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 0.7187 - distance1: 3.945273 - distance2: 2.507294
+d1 [1.3332608124163954, 10.82020358480584, 1.8841867135378632, 4.548836923632553, 3.9591712799475367, 9.235579469520395, 2.550780685106464, 3.9313755568664024]
+d2 [0.5576934385238648, 10.295976155426613, 1.1199489962364522, 4.084302881462177, 2.1233833530971653, 5.975173861504047, 1.128812263327064, 2.891204128778769]
+Inferance Time 0m 1s
+
+epoch:  147
+Epoch 147
+Train - Loss: 0.4362 
+Train Time 2m 48s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.5979 
+Validation Time 0m 5s
+
+epoch:  148
+Epoch 148
+Train - Loss: 0.4348 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6676 
+Validation Time 0m 6s
+
+epoch:  149
+Epoch 149
+Train - Loss: 0.4307 
+Train Time 2m 47s
+lr: 4.05e-05
+Val Synthetic - Loss: 0.6357 
+Validation Time 0m 5s
+
+epoch:  150
+Epoch 150
+Train - Loss: 0.4257 
+Train Time 2m 49s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5775 
+Validation Time 0m 5s
+
+epoch:  151
+Epoch 151
+Train - Loss: 0.4234 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6770 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7814 - distance1: 6.016143 - distance2: 3.383841
+d1 [5.789334467141086, 6.242950567088921, 3.579456726418074, 4.679221844264901, 10.364724264161156, 9.529721780689128, 3.409456257100715, 16.503174605649896]
+d2 [8.108922021071287, 0.8092247222280083, 1.1414609571165828, 3.018870294560637, 5.958911881052171, 1.2421213578776924, 3.7488114153140333, 10.207926379169368]
+Inferance Time 0m 1s
+
+epoch:  152
+Epoch 152
+Train - Loss: 0.4200 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6412 
+Validation Time 0m 6s
+
+epoch:  153
+Epoch 153
+Train - Loss: 0.4114 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5454 
+Validation Time 0m 5s
+
+epoch:  154
+Epoch 154
+Train - Loss: 0.4046 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5430 
+Validation Time 0m 5s
+
+epoch:  155
+Epoch 155
+Train - Loss: 0.4034 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6553 
+Validation Time 0m 6s
+
+epoch:  156
+Epoch 156
+Train - Loss: 0.4008 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5730 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.6131 - distance1: 3.640559 - distance2: 2.689615
+d1 [1.571095685834619, 2.908169013940329, 3.1187467933327673, 5.893535000118412, 10.21775694359628, 2.034058617197836, 11.155104101640886, 4.162370451401412]
+d2 [0.7426901908074676, 1.1985538465975547, 2.3127274939869156, 7.658727505293409, 5.960525016476729, 1.2515214015500578, 10.238692843859317, 3.0665027297726417]
+Inferance Time 0m 1s
+
+epoch:  157
+Epoch 157
+Train - Loss: 0.4016 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6192 
+Validation Time 0m 6s
+
+epoch:  158
+Epoch 158
+Train - Loss: 0.4055 
+Train Time 2m 48s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6656 
+Validation Time 0m 5s
+
+epoch:  159
+Epoch 159
+Train - Loss: 0.4001 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5940 
+Validation Time 0m 5s
+
+epoch:  160
+Epoch 160
+Train - Loss: 0.3941 
+Train Time 2m 48s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5822 
+Validation Time 0m 5s
+
+epoch:  161
+Epoch 161
+Train - Loss: 0.3883 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5618 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.6563 - distance1: 4.443987 - distance2: 2.571732
+d1 [4.645878764749742, 2.6545565780180813, 2.8425176145432847, 10.96693623594195, 11.659789452803842, 4.502280791350474, 2.230809165896604, 4.385693368450978]
+d2 [3.467063705423809, 1.4788254163070578, 0.8862592957572534, 6.016928049346276, 10.349554575846339, 1.7680267166783776, 0.4761611260414286, 3.375436393836717]
+Inferance Time 0m 1s
+
+epoch:  162
+Epoch 162
+Train - Loss: 0.3892 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6129 
+Validation Time 0m 6s
+
+epoch:  163
+Epoch 163
+Train - Loss: 0.3862 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5758 
+Validation Time 0m 5s
+
+epoch:  164
+Epoch 164
+Train - Loss: 0.3867 
+Train Time 2m 48s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.4894 
+Validation Time 0m 5s
+
+epoch:  165
+Epoch 165
+Train - Loss: 0.3827 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.7292 
+Validation Time 0m 5s
+
+epoch:  166
+Epoch 166
+Train - Loss: 0.3800 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5854 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7078 - distance1: 5.828312 - distance2: 1.542204
+d1 [2.2819992158088707, 10.996566496498316, 5.618041635150925, 6.038582268049297, 6.690453307861794, 1.2774497834022616, 1.4148532280105335, 11.50499530358224]
+d2 [1.1743990183216455, 5.888138623530614, 6.084663138316422, 0.8390524127532493, 1.7975623389155977, 1.2868453047659376, 0.6238427985316323, 10.572200943751767]
+Inferance Time 0m 1s
+
+epoch:  167
+Epoch 167
+Train - Loss: 0.3761 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5598 
+Validation Time 0m 5s
+
+epoch:  168
+Epoch 168
+Train - Loss: 0.3722 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.4966 
+Validation Time 0m 6s
+
+epoch:  169
+Epoch 169
+Train - Loss: 0.3689 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5381 
+Validation Time 0m 5s
+
+epoch:  170
+Epoch 170
+Train - Loss: 0.3700 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.6061 
+Validation Time 0m 6s
+
+epoch:  171
+Epoch 171
+Train - Loss: 0.3660 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5778 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7258 - distance1: 3.129190 - distance2: 1.867107
+d1 [0.4074432519078163, 2.06899108477106, 10.58753026785952, 9.10152663143766, 1.114627464087548, 4.393339519141369, 2.0293296769531395, 4.189388633243072]
+d2 [0.4074432519078163, 0.9856689054406502, 10.124118123465177, 5.7442884040390405, 0.727160032023882, 2.604275569362665, 1.1299385148381536, 2.8915118606092793]
+Inferance Time 0m 1s
+
+epoch:  172
+Epoch 172
+Train - Loss: 0.3634 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5044 
+Validation Time 0m 5s
+
+epoch:  173
+Epoch 173
+Train - Loss: 0.3625 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5969 
+Validation Time 0m 5s
+
+epoch:  174
+Epoch 174
+Train - Loss: 0.3572 
+Train Time 2m 47s
+lr: 3.6450000000000005e-05
+Val Synthetic - Loss: 0.5218 
+Validation Time 0m 5s
+
+epoch:  175
+Epoch 175
+Train - Loss: 0.3605 
+Train Time 2m 48s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5915 
+Validation Time 0m 5s
+
+epoch:  176
+Epoch 176
+Train - Loss: 0.3497 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5132 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.6117 - distance1: 3.518447 - distance2: 2.511326
+d1 [11.253264722208572, 4.166656043584114, 4.586174761983297, 2.8702377895773874, 0.6928184439959535, 1.900584492548997, 9.779965943937805, 0.6098622079743878]
+d2 [10.448123070074192, 3.378617704594395, 3.5885049223317123, 1.6440342115075801, 0.5793397022275425, 1.2934957917285284, 6.067542571859807, 0.6035227352061014]
+Inferance Time 0m 1s
+
+epoch:  177
+Epoch 177
+Train - Loss: 0.3464 
+Train Time 2m 48s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5237 
+Validation Time 0m 5s
+
+epoch:  178
+Epoch 178
+Train - Loss: 0.3443 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5338 
+Validation Time 0m 5s
+
+epoch:  179
+Epoch 179
+Train - Loss: 0.3435 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.7096 
+Validation Time 0m 5s
+
+epoch:  180
+Epoch 180
+Train - Loss: 0.3418 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5302 
+Validation Time 0m 5s
+
+epoch:  181
+Epoch 181
+Train - Loss: 0.3329 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5678 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 0.6481 - distance1: 5.273565 - distance2: 1.607761
+d1 [0.6665543367284456, 10.9939721547332, 6.466554543106862, 1.5085847471770524, 6.3746293546128525, 11.264142472403726, 2.0835631247684407, 4.172501207738631]
+d2 [0.7187750166261468, 5.966067355170694, 2.2542400709249875, 0.8310045318879181, 0.8438729855857305, 10.19904260799498, 0.9612826374095055, 4.760806799053131]
+Inferance Time 0m 1s
+
+epoch:  182
+Epoch 182
+Train - Loss: 0.3369 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.6340 
+Validation Time 0m 5s
+
+epoch:  183
+Epoch 183
+Train - Loss: 0.3369 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.7141 
+Validation Time 0m 6s
+
+epoch:  184
+Epoch 184
+Train - Loss: 0.3367 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.6753 
+Validation Time 0m 5s
+
+epoch:  185
+Epoch 185
+Train - Loss: 0.3361 
+Train Time 2m 47s
+lr: 3.280500000000001e-05
+Val Synthetic - Loss: 0.5275 
+Validation Time 0m 5s
+
+epoch:  186
+Epoch 186
+Train - Loss: 0.3278 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5971 
+Validation Time 0m 6s
+
+Inferance Synthetic - Loss: 0.7098 - distance1: 5.263319 - distance2: 1.130761
+d1 [11.376760270966125, 2.038400700462812, 5.603406747054174, 4.923231654523309, 6.3948037820284, 0.9964730499256583, 10.789160505938014, 1.7022408223086158]
+d2 [10.243316379034939, 0.795118150757713, 0.7059889509210326, 5.118067562992141, 1.2368750407750517, 1.0246474296782595, 5.991702694170817, 0.7472963668186988]
+Inferance Time 0m 1s
+
+epoch:  187
+Epoch 187
+Train - Loss: 0.3272 
+Train Time 2m 48s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5333 
+Validation Time 0m 6s
+
+epoch:  188
+Epoch 188
+Train - Loss: 0.3333 
+Train Time 2m 48s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5139 
+Validation Time 0m 5s
+
+epoch:  189
+Epoch 189
+Train - Loss: 0.3205 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.7458 
+Validation Time 0m 5s
+
+epoch:  190
+Epoch 190
+Train - Loss: 0.3233 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.8350 
+Validation Time 0m 5s
+
+epoch:  191
+Epoch 191
+Train - Loss: 0.3204 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5460 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.7080 - distance1: 6.741002 - distance2: 1.770328
+d1 [7.91924586252345, 10.793479769082087, 6.437743722249749, 11.202006277431776, 2.684883520107785, 0.6561402525609975, 7.044259384129477, 2.6900772663332018]
+d2 [2.231958223863411, 6.001994292215326, 6.713320590916096, 10.299958975840568, 1.1935966553440749, 0.6561402525609975, 1.308697409324663, 0.762233522104353]
+Inferance Time 0m 1s
+
+epoch:  192
+Epoch 192
+Train - Loss: 0.3189 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.6189 
+Validation Time 0m 5s
+
+epoch:  193
+Epoch 193
+Train - Loss: 0.3191 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5734 
+Validation Time 0m 6s
+
+epoch:  194
+Epoch 194
+Train - Loss: 0.3135 
+Train Time 2m 48s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.6796 
+Validation Time 0m 5s
+
+epoch:  195
+Epoch 195
+Train - Loss: 0.3203 
+Train Time 2m 47s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5654 
+Validation Time 0m 5s
+
+epoch:  196
+Epoch 196
+Train - Loss: 0.3188 
+Train Time 2m 48s
+lr: 2.952450000000001e-05
+Val Synthetic - Loss: 0.5821 
+Validation Time 0m 5s
+
+Inferance Synthetic - Loss: 0.6948 - distance1: 4.516572 - distance2: 1.480705
+d1 [0.7370542476288565, 0.5902673253356453, 11.669431004228016, 5.424181925281091, 2.990940817113458, 5.163916566463365, 10.669967248859578, 3.8692266458053357]
+d2 [0.484405769889358, 0.5175166561534893, 10.224035892557401, 1.7131330046685829, 1.2482779115011617, 1.0935192608384257, 5.999927847547663, 4.989181982913507]
+Inferance Time 0m 1s
+
+epoch:  197
+Epoch 197
+Train - Loss: 0.3037 
+Train Time 2m 47s
+lr: 2.657205000000001e-05
+Val Synthetic - Loss: 0.4975 
+Validation Time 0m 6s
+
+epoch:  198
+Epoch 198
+Train - Loss: 0.3049 
+Train Time 2m 48s
+lr: 2.657205000000001e-05
+Val Synthetic - Loss: 0.6205 
+Validation Time 0m 5s
+
+epoch:  199
+Epoch 199
+Train - Loss: 0.3056 
+Train Time 2m 47s
+lr: 2.657205000000001e-05
+Val Synthetic - Loss: 0.5536 
+Validation Time 0m 5s
+
+epoch:  200
+Epoch 200
+Train - Loss: 0.3043 
+Train Time 2m 47s
+lr: 2.657205000000001e-05
+Val Synthetic - Loss: 0.6008 
+Validation Time 0m 5s
+
