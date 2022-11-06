@@ -1,7 +1,7 @@
 # autodetect
 
 ## Fully cloud based andmark detection in 3D angiography images
-![alt text](https://github.com/philips-internal/autodetect/blob/main/Pipeline.png?raw=true)
+![alt text](https://github.com/samadamini/3D-landmark-detection/Pipeline.png?raw=true)
 
 ### Clone the repo and navigate to where the repo is cloned:
 `cd ./autodetect`
