@@ -7,7 +7,9 @@
 `cd ./autodetect`
 
 ### To install the dependencies install the requirments.txt
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## How to start
 There are already data in this repo that can be used for either training or inference. Go ahead with `screen -dmsL test1 python3 train.py`
