@@ -7,7 +7,7 @@
 `cd ./autodetect`
 
 ### To install the dependencies install the requirments.txt
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ## How to start
 There are already data in this repo that can be used for either training or inference. Go ahead with `screen -dmsL test1 python3 train.py`
@@ -33,7 +33,8 @@ If there is no data, just put the dicom files in the **aneurysm_dicom** folder a
 *screen_logs*: contains some of the logs after training Unet1, Unet2, and Unet3.
 
 ### Tips
-Use screen comnmand for the training process to the log file, e.g.`screen -dmsL test1 python3 train.py`
+Use screen comnmand for the training process to the log file, e.g.
+```screen -dmsL test1 python3 train.py```
 Most changes can be done in `utils/training_monai.py` and `scr/data_preprocessing.py`
 
 
